@@ -5,7 +5,7 @@ Welcome to my Github page.
 
 ![Harinder Seera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hseera&show_icons=true&theme=dracula)
 
-![GitHub metrics](https://metrics.lecoq.io/hseera?template=classic&config.timezone=Australia%2FSydney)
+[![GitHub metrics](https://metrics.lecoq.io/hseera?template=classic&config.timezone=Australia%2FSydney)](https://github.com/lowlighter/metrics)
 
 
 [website]: https://ozperf.com
