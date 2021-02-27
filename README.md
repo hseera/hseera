@@ -4,7 +4,7 @@
 
 ![Harinder Seera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hseera&show_icons=true&theme=dracula)
 
-[![GitHub metrics](https://metrics.lecoq.io/hseera?pagespeed=1&languages=1&followup=1&isocalendar=1)](https://github.com/lowlighter/metrics)
+[![GitHub metrics](https://metrics.lecoq.io/hseera?pagespeed=1&languages=1&followup=1&isocalendar=1)]
 
 
 [website]: https://ozperf.com
