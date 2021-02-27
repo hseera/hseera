@@ -5,4 +5,5 @@
 - workflow that created this README: `CI`
 
 **Latest report PDF**: [report.pdf](https://github.com/hseera/hseera/raw/github-repo-stats/hseera/python-utilities/latest-report/report.pdf)
+
 **Latest report HTML via GitHub pages**: [report.html](https://github.com/hseera/hseera/raw/github-repo-stats/hseera/python-utilities/latest-report/report.html)
