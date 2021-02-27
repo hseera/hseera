@@ -1,10 +1,11 @@
-### Hi There ğŸ‘‹
+### Hi There.
+Welcome to my Github page.
 
 # 🌟 GitHub Stats
 
 ![Harinder Seera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hseera&show_icons=true&theme=dracula)
 
-[![GitHub metrics](https://metrics.lecoq.io/hseera?pagespeed=1&languages=1&followup=1&isocalendar=1)]
+![GitHub metrics](https://metrics.lecoq.io/hseera?template=classic&config.timezone=Australia%2FSydney)
 
 
 [website]: https://ozperf.com
